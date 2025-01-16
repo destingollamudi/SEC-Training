@@ -1,2 +1,0 @@
-# SEC-Training
-training modules
