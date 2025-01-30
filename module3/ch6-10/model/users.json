@@ -1,14 +1,1 @@
-[
-  {
-    "username": "walt2",
-    "password": "$2b$10$1EjJvgRQ93q9LtrYHGYAE.wTZDccn/YFp.51JlkAtKAXgUTmIVFsW"
-  },
-  {
-    "username": "walt1",
-    "password": "$2b$10$HB4DRVp4jk/VZOnMvR3owu1R7/Q9IRC25AXHx2chWjBJgHKzhDOhC"
-  },
-  {
-    "username": "walt10",
-    "password": "$2b$10$jLHTvINjR239X931dTl5uuB0qdENV6FYNxiv/yEIAoBfoS1RDOIcm"
-  }
-]
+[{"username":"walt2","password":"$2b$10$1EjJvgRQ93q9LtrYHGYAE.wTZDccn/YFp.51JlkAtKAXgUTmIVFsW"},{"username":"walt10","password":"$2b$10$jLHTvINjR239X931dTl5uuB0qdENV6FYNxiv/yEIAoBfoS1RDOIcm"},{"username":"walt1","password":"$2b$10$HB4DRVp4jk/VZOnMvR3owu1R7/Q9IRC25AXHx2chWjBJgHKzhDOhC","refreshToken":" "}]
