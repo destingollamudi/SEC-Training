@@ -16,6 +16,8 @@
     "date-fns": "^2.23.0",
     "dotenv": "^16.4.7",
     "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.9.6",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
