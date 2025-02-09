@@ -1,0 +1,18 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  background-color: #f0f0f0;
+  
+}
+
+/* Div styling */
+.flex-item {
+  flex: 1 1 calc(33.33% - 20px);
+  max-width: calc(33.33% - 20px);
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
